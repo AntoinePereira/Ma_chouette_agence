@@ -192,7 +192,9 @@ a:hover {
 .l-bloc {
     color: rgba(0, 0, 0, .5);
 }
-
+blockquote {
+    color:black;
+}
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
     color: rgba(0, 0, 0, .7);
